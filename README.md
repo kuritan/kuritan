@@ -11,11 +11,11 @@
 
 - 🌱 I also use other tools to tuning the system's performance, like **Mackerel, Newrelic, and so on**
 
-- 👨‍💻 Check my details on [https://matilde-lab.com/](https://matilde-lab.com/)
+- 👨‍💻 Check my details on [matilde-lab](https://matilde-lab.com/)
 
-- 📝 I regularly write articles on [https://kuritan.github.io/](https://kuritan.github.io/)
+- 📝 I regularly write articles on [kuritan.github.io](https://kuritan.github.io/)
 
-- 📄 Know about my experiences [https://kuritan.github.io/Portfolio/](https://kuritan.github.io/Portfolio/)
+- 📄 Know about my experiences [Portfolio](https://kuritan.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
