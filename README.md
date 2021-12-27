@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an **Senior SRE@Tokyo**
 
-- 🏁 Trilingual speaker(Chineese[mandarin], Japanense, and English)
+- 🏁 Trilingual speaker(Chinese[mandarin], Japanese, and English)
 
 - 👯 I built the CI/CD pipeline with other engineers through **Terraform, Ansible, kubernetes, etc.**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Check my details on [matilde-lab](https://matilde-lab.com/)
 
-- 📝 I regularly write articles on [kuritan.github.io](https://kuritan.github.io/)
+- 📝 I regularly write technological articles on [kuritan.github.io](https://kuritan.github.io/) in Japanese
 
 - 📄 Know about my experiences [Portfolio](https://kuritan.github.io/Portfolio/)
 
