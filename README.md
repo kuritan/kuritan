@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working as an **Senior SRE@Tokyo**
 
+- 🏁 Trilingual speaker(Chineese[mandarin], Japanense, and English)
+
 - 👯 I built the CI/CD pipeline with other engineers through **Terraform, Ansible, kubernetes, etc.**
 
 - 🌱 I also use other tools to tuning the system's performance, like **Mackerel, Newrelic, and so on**
